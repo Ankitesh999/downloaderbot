@@ -14,7 +14,7 @@ This Python-based project allows users to download videos from both YouTube and 
 1. Clone the repository:
     ```bash
     git clone https://github.com/your-username/VideoDownloader-Bot.git
-    cd VideoDownloader-Bot
+    cd downloaderbot
     ```
 
 2. Install dependencies:
